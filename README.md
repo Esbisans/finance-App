@@ -12,3 +12,6 @@ Streamlit lets you turn data scripts into sharable web apps in minutes, not week
 pip install streamlit
 streamlit hello
 ```
+
+# Integrante: Esaú Abimael Sánchez Jiménez 193281
+
