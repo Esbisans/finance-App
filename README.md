@@ -1,4 +1,4 @@
-# Welcome to Streamlit :wave:
+# Bienvenido to Streamlit :wave:
 
 **The fastest way to build and share data apps.**
 
